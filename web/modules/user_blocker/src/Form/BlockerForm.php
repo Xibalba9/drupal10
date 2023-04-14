@@ -68,7 +68,7 @@ class BlockerForm extends FormBase
 
     $username = $form_state->getValue('username');
     $user = user_load_by_name($username);
-    if (empty($user) ||!$username) {
+    if (empty($user) || !$username) {
       $form_state->setError(
         $form['username'],
         $this->t('User %username was not found.', ['%username' => $username])
