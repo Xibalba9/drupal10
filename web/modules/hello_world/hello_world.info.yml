@@ -1,0 +1,5 @@
+name: Hello, world
+type: module
+description: My Hello, World module.
+package: DrupalEasy
+core_version_requirement: ^9 || ^10
