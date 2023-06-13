@@ -13,7 +13,7 @@ the project into then enter the command:
 `ddev config`
 
 Prompts:
-- `Project name:dcoweek5`
+- `Project name: dcoweek5`
 - `Docroot location: web`
 - `Application type: drupal10`
 
