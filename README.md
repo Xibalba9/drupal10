@@ -1,7 +1,7 @@
 # Drupal 10
 Used during DCO Spring 2023 Lesson6 (DrupalEasy) - GitHub example
 - This is a fresh Drupal10 site to experiment new features (contrib and custom modules)
-# Clone and locally install a Drupal site
+# Clone and locally install the Drupal site
 - From the command line, navigate to the local directory where you want to clone
 the project into then enter the command:
 
