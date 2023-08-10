@@ -5,4 +5,4 @@ user_blocker.blocker_form_menu_item:
   menu_name: admin
   parent: entity.user.collection
   route_name: user_blocker.blocker
-  weight: 100
+  weight: 99
